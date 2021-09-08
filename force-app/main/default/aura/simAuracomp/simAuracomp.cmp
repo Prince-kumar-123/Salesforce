@@ -1,0 +1,4 @@
+<aura:component>
+    Hello there! <br/>
+    Welcome to the Aura World.
+</aura:component>	
